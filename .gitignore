@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+
+# Archivos compilados
+dist/
+
+# Archivos de logs
+*.log
+
+# Configuración local
+.env
+.DS_Store
+
